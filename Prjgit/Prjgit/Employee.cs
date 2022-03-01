@@ -14,6 +14,10 @@ namespace Prjgit
         
         public void getemployee()
         {
+            Console.WriteLine("Enter the id");
+          id=Convert.ToInt32(Console.writeline());
+            Console.Writeline("Enter Your name");
+           name=Console.WriteLine();
 
         }
         public void displayemploye()
